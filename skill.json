@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-salivary-slga-mucosal-immunity-overtraining-skill",
+  "version": "1.0.0",
+  "title": "Salivary sIgA Mucosal Immunity & Upper Respiratory Sentinel Skill",
+  "category": "Personal Agent (Bio / Mucosal Immunology)",
+  "description": "Calculates salivary secretory Immunoglobulin A (sIgA) secretion rate and sIgA-to-protein ratio, predicting upper respiratory tract infection (URTI) susceptibility from overtraining.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "assess_mucosal_immunity_siga"
+  ],
+  "dependencies": []
+}
